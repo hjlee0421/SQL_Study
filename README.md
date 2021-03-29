@@ -28,4 +28,3 @@ It covers SQL for a future Data Analyst, for more stories pleas check out [https
 - https://dsbook.tistory.com/218
 - https://wikidocs.net/20919
 - https://rfriend.tistory.com/322
-- https://www.fun-coding.org/mysql_basic6.html
