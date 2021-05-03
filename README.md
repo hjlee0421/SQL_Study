@@ -21,6 +21,7 @@ It covers SQL for a future Data Analyst, for more stories pleas check out [https
 ## Study with
 
 - https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
+- https://www.w3schools.com/sql/default.asp
 - https://gist.github.com/bradtraversy/c831baaad44343cc945e76c2e30927b3
 - https://www.sqltutorial.org/sql-cheat-sheet/
 - https://realpython.com/python-sql-libraries/
